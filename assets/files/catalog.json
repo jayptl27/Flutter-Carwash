@@ -1,0 +1,96 @@
+{
+    "products": [
+        {
+            "id": 1,
+            "name": "Interior Detailing",
+            "desc": "A thorough clean of your car's interior using STEAM and detailing chemicals.",
+            "price": 25,
+            "color": "#33505a",
+            "duration": "45 Minutes",
+            "desctwo":"Our interior detailing entails a thorough clean of the headliner (roof), seats (both leather and fabric), safety belts, floor, dashboard, centre console, trunk etc. Interior Detailing helps in oduor removal.",
+            "image": "assets/images/interior.jpg"
+        },
+        {
+            "id": 2,
+            "name": "Interior Disinfectant",
+            "desc": "Sanitize, disinfect, and protect your vehicle for up to 3 months!",
+            "price": 30,
+            "color": "#00ac51",
+            "duration": "30 Minutes",
+            "desctwo":"Cover your bases with our EPA-approved, Basic Disinfectant for vehicle hard surfaces. Our technicians give your car’s interior a disinfectant wipe down to sanitize away 99.9% of bacteria and viruses in your car and keep you protected for seven days after application. Those that like to keep it fragrance-free, you should know this product has a light scent.",
+            "image": "assets/images/disinfectant.jpg"
+        },
+        {
+            "id": 3,
+            "name": "Exterior Body Wash",
+            "desc": "A thorough clean of you car's exterior using pressure washers.",
+            "price": 40,
+            "color": "#e0bfae",
+            "duration": "45 Minutes",
+            "desctwo":"Our exterior detailing entails washing and drying a car’s body, wheels, tires, and windows; using clay bars to remove dust and grit; applying a sealant to protect the paint; and getting rid of—or at least reducing—surface scratches by polishing the exterior.",
+            "image": "assets/images/exterior.jpg"
+            
+        },
+        {
+            "id": 4,
+            "name": "Full Exterior & Interior Cleaning",
+            "desc": "A complete carwash with interior detailing and exterior perfection.",
+            "price": 60,
+            "color": "#544ee4",
+            "duration": "60 Minutes",
+            "desctwo":"Our full exterior and interior cleaning entials a complete carwash. It includes washing and drying a car’s body, wheels, tires, and windows and getting rid of—or at least reducing—surface scratches by polishing the exterior. It also entails a thorough clean of the headliner (roof), seats (both leather and fabric), safety belts, floor, dashboard, centre console, trunk etc.",
+            "image": "assets/images/ext&int.jpg"
+            
+        },
+        {
+            "id": 5,
+            "name": "Engine Bay Detailing",
+            "desc": "A thorough clean of your car's engine using STEAM and detailing chemicals.",
+            "price": 15,
+            "color": "#e3e4e9",
+            "duration": "30 Minutes",
+            "desctwo":"Our car detailers follow safe engine detailing methods for all kinds of automobile engines. We steam clean engine as well as de-grease and finish off with a dressing compound to produce super result. A clean engine bay helps spot leaks and other problems quickly, it also prevents build up of grease and dust.",
+            "image": "assets/images/engine.jpg"
+        },
+        {
+            "id": 6,
+            "name": "Polishing & Buffing",
+            "desc": "Gives your car a deep glossy showroom shine.",
+            "price": 55,
+            "color": "#f73984",
+            "duration": "30 Minutes",
+            "desctwo":"Polishing (buffing) restores the clear coat on your car's paintwork. We follow a 5-step process to give you car a deep glossy showroom shine. We firstly, do a thorough body cleaning + de-greasing, followed by claying to remove oxidation. We then do a body steam clean with sanding & repairing clear coat scratches. Finally we carry out polishing (buffing) followed by application of synthetic wax sealant.",
+            "image": "assets/images/polishing.jpg"
+        },
+        {
+            "id": 7,
+            "name": "High-pressure Air Blow-out",
+            "desc": "Get rid of dust from your leather seats.",
+            "price": 14,
+            "color": "#1c1c1c",
+            "duration": "30 Minutes",
+            "desctwo":"Finding it hard to reach areas like in-between seats, cupholders, and dashboards? Don't worry we got you covered. Our powerful cleaning guns will help clean certain hard to reach areas. Our cleaning guns will use steam mixed with compresed air to get rid of dust particles from areas.",
+            "image": "assets/images/blowout.jpg"
+        },
+        {
+            "id": 8,
+            "name": "Wheel Clean & Tireshine",
+            "desc": "Prevent you tyres from fading or cracking.",
+            "price": 9,
+            "color": "#7c95eb",
+            "duration": "20 Minutes",
+            "desctwo":"Tire shine makes wheels look brand new. They help keep tires sparkling while you drive and are designed to bring out the black shine in the surface. Keep away dirt and mud. Tire shines help keep dirt, mud, and other road debris from sticking to the tires for a period of time, keeping them looking fresh and sparking. We clean the rims and chromes using special detergents so as to remove any corrosion stains and prevent accumulation of dirt that causes the corrosion.",
+            "image": "assets/images/tireshine.jpg"
+        },
+        {
+            "id": 9,
+            "name": "Headlight Restoration",
+            "desc": "Get your headlights a new shiny look.",
+            "price": 8,
+            "color": "#7c95eb",
+            "duration": "15 Minutes",
+            "desctwo":"Once your headlight fades and loses its factory clarity its usually time to seek a restoration as its cheaper than replacing your headlight. We use special methods to restore headlights. We wet-sand, polish and finish off by protecting the restored headlight with a high grade sealant so as to keep the new look for a long time.",
+            "image": "assets/images/headlight.jpg"
+        }
+    ]
+}
